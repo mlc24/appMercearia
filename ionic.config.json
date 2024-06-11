@@ -1,0 +1,7 @@
+{
+  "name": "appMerc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
